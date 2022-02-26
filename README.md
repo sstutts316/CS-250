@@ -1,6 +1,6 @@
 # CS-250
 #How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?
-#User stories are prioritized stories that have the needs and wants for some kind of functionality for business of the client. They are what we use during our Sprints. During the #Sprints we implement what the user needs into our code and then we can make sure it's exactly how the client wants it and then it can get deployed. User stories can help understand the perspective of the end user.
+#User stories are prioritized stories that have the needs and wants for some kind of functionality for business of the client. They are what we use during our Sprints. During the #Sprints we implement what the user needs into our code and then we can make sure it's exactly how the client wants it and then it can get deployed. User stories can help #understand the perspective of the end user.
 
 
 #How do I approach developing programs? What agile processes do I hope to incorporate into my future development work?
